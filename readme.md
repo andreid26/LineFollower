@@ -24,3 +24,4 @@ Also, it must calibrate itself when powered on.
 
 ## Demo: https://youtu.be/XVGPm5OM4Hs
 
+Teammate: https://github.com/adesafta2002
